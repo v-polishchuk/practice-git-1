@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capical of France
+This would be green line in git status
+This would be red line in git status
